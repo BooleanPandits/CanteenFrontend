@@ -1,0 +1,26 @@
+body{
+    margin: 0px auto;
+    width: 100%;
+  }
+
+  nav{
+      height: 10vh;
+      width: 100%;
+      background-color: bisque;
+      position: absolute;
+      top: 0;
+     }
+
+  nav ul li{
+      float: left;
+      list-style: none;
+      padding: 1vh 4vh;
+      
+  }
+  footer{
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      background-color: rgb(219, 131, 24);
+
+  }
