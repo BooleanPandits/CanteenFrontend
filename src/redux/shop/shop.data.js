@@ -1,4 +1,4 @@
-import { db } from "./firebase/firebase.utils.js";
+import { db } from "../../firebase/firebase.utils.js";
 const SHOP_DATA = [
   {
     id: 1,
